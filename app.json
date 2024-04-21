@@ -1,0 +1,22 @@
+{
+    "name": "RIOS-PAIR",
+    "description": "LOS-RIOS-MD WA bot, Created by Venocyber King jux and wasixd programmer to simplify your digital lives",
+    "logo": "https://telegra.ph/file/efa95dac659f93718b73f.jpg",
+    "repository": "https://github.com/kingjux/Rios-pair",
+    "keywords": ["LosRiosMd"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "set session id conformation message",
+        "value": "",
+        "required": false 
+      }
+    }   
+
+}
