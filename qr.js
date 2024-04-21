@@ -60,13 +60,13 @@ router.get('/', async (req, res) => {
 	
 				   let LOS_RIOS_MD_TEXT = `
 *_Qr Code By Venocyber Tech_*
-*_Made With 🤍🧚_*
+*_Made With 🤍_*
 ______________________________________
 *_Pair Code Connected by Venocyber Tech_*
-*_Made With 🤍🧚_*
+*_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU CHOOSEN LOS RIOS MD 🚘🚘🧚 ᴍᴅ 』*
+║ *『 WOW YOU CHOOSEN LOS RIOS MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚══════════════════════╝
 ╔═════◇
