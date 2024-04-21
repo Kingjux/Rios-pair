@@ -57,10 +57,10 @@ router.get('/', async (req, res) => {
 
                let UNIQUE_MD_TEXT = `
 *_Pair Code Connected by Venocyber Tech_*
-*_Made With 🤍🧚_*
+*_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU CHOOSEN LOS RIOS MD 🚘🚘🧚 』*
+║ *『 WOW YOU CHOOSEN LOS RIOS MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚══════════════════════╝
 ╔═════◇
